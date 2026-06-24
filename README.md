@@ -1,4 +1,4 @@
-# Retail Banking Customer Analytics Platform
+# Retail Banking Customer Analytics
 
 ## Project Overview
 
