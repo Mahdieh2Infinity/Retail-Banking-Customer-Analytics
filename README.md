@@ -1,5 +1,9 @@
 # Retail Banking Customer Analytics
 
+Live Demo
+
+https://retail-banking-customer-analytics.streamlit.app
+
 ## Project Overview
 
 This project demonstrates the design and implementation of an end-to-end Retail Banking Customer Analytics Platform using Python, SQL, Machine Learning, and Streamlit.
